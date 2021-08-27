@@ -1,0 +1,30 @@
+{
+  "todo": [
+    {
+      "activity": "Eat",
+      "id": 1,
+      "isFinished": true
+    },
+    {
+      "activity": "Sleep",
+      "id": 2,
+      "isFinished": true
+    },
+    {
+      "activity": "Rave",
+      "id": 3,
+      "isFinished": true
+    },
+    {
+      "activity": "Repeat",
+      "isFinished": false,
+      "id": 4
+    },
+    {
+      "activity": "Vaksin",
+      "isFinished": false,
+      "id": 5
+    }
+  ],
+  "users": []
+}

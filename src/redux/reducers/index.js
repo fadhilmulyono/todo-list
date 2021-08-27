@@ -1,0 +1,9 @@
+import { combineReducers } from 'redux'
+import todo from './todo';
+
+export default combineReducers({
+    todo: todo,
+    // auth
+    // user
+    // cart
+})
